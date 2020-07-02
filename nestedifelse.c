@@ -4,7 +4,7 @@ void main()
     int per;
     printf("Enter your percentage");
     scanf("%d",&per);
-    if (per > 80)  
+    if (per >= 80)  
         {  
             printf("\nGrade A"); 
         }  
